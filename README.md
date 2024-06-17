@@ -27,3 +27,7 @@ This is a complete full stack ecommerce application built with Mongoose, Express
 
 ## Link to the website
 [ShopperEcommerce](https://ecommerce-project-frontend-ecru.vercel.app/).
+
+## Link to Backend And Admin portal Repositories
+[Backend Repo](https://github.com/SourabhMalviya9090/Ecommerce-Project-Backend).
+[Admin Portal Repo](https://github.com/SourabhMalviya9090/Ecommerce-Project-AdminPortal).
