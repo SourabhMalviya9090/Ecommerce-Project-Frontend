@@ -60,7 +60,7 @@ This is a complete full stack ecommerce application built with Mongoose, Express
 > ![Screenshot (666)](https://github.com/SourabhMalviya9090/Ecommerce-Project-Frontend/assets/142317647/8c92e05c-5c25-4a31-959a-2ad2388138a0)
 
 > Your Orders Page
-> ![Screenshot (667)](https://github.com/SourabhMalviya9090/Ecommerce-Project-Frontend/assets/142317647/d361ef85-7c56-4cf1-8a1a-08d1c5a8e0c3)
+> ![Screenshot (672)](https://github.com/SourabhMalviya9090/Ecommerce-Project-Frontend/assets/142317647/e5ac4d9d-e22b-400c-be48-ff438a345260)
 
 > Payment Page
 > ![Screenshot (668)](https://github.com/SourabhMalviya9090/Ecommerce-Project-Frontend/assets/142317647/5be1f60a-1b16-4291-88ac-72528d9f72ff)
@@ -71,4 +71,6 @@ This is a complete full stack ecommerce application built with Mongoose, Express
 > Signup Page
 > ![Screenshot (670)](https://github.com/SourabhMalviya9090/Ecommerce-Project-Frontend/assets/142317647/15e49138-9b0e-4849-aa63-5c7351c93d0b)
 
+> Admin Page
+> ![Screenshot (672)](https://github.com/SourabhMalviya9090/Ecommerce-Project-Frontend/assets/142317647/ca4d78f1-be41-4df7-8077-bd556128fa3c)
 
