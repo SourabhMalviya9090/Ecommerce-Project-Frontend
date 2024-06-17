@@ -9,18 +9,18 @@ This is a complete full stack ecommerce application built with Mongoose, Express
 > * User will also receive a confirmation email after the successful payment.
 
 ## Technologies used
-> HTML5 - markup language for creating web pages and web applications.
-> CSS3 - used for describing the presentation of a document written in a markup language.
-> DOM Manipulation - is a platform and language-neutral interface that allows programs and scripts to dynamically access and update the content, structure, and style of a document.
-> Node.js - pen-source, cross-platform JavaScript run-time environment for executing JavaScript code server-side.
-> Express.js - for building web applications and APIs and connecting middleware.
-> REST API - REST (REpresentational State Transfer) is an architectural style for developing web services.
-> MongoDB - open-source cross-platform document-oriented NoSQL database program to store details like users info, campgrounds info and comments.
-> Data Associations - associating user data with their cart data.
-> MongoDb Atlas - cloud based data base used for storing collections: Products, users.
-> React Js - Javascript framework, used for creating user interfaces, frontend-development.
-> Context APIs - The React Context API is a way for a React app to effectively produce global variables that can be passed around.
-> Jason Web Token (JST) - authentication middleware for Node.js. Extremely flexible and modular.
-> Stripe Payement Gateway  - For payment feature integration.
-> easyinvoice - For generating the invoice after purchase of product.
-> EmailJs - EmailJS helps to send emails using client-side technologies only.
+> * HTML5 - markup language for creating web pages and web applications.
+> * CSS3 - used for describing the presentation of a document written in a markup language.
+> * DOM Manipulation - is a platform and language-neutral interface that allows programs and scripts to dynamically access and update the content, structure, and style of a document.
+> * Node.js - pen-source, cross-platform JavaScript run-time environment for executing JavaScript code server-side.
+> * Express.js - for building web applications and APIs and connecting middleware.
+> * REST API - REST (REpresentational State Transfer) is an architectural style for developing web services.
+> * MongoDB - open-source cross-platform document-oriented NoSQL database program to store details like users info, campgrounds info and comments.
+> * Data Associations - associating user data with their cart data.
+> * MongoDb Atlas - cloud based data base used for storing collections: Products, users.
+> * React Js - Javascript framework, used for creating user interfaces, frontend-development.
+> * Context APIs - The React Context API is a way for a React app to effectively produce global variables that can be passed around.
+> * Jason Web Token (JST) - authentication middleware for Node.js. Extremely flexible and modular.
+> * Stripe Payement Gateway  - For payment feature integration.
+> * easyinvoice - For generating the invoice after purchase of product.
+> * EmailJs - EmailJS helps to send emails using client-side technologies only.
