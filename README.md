@@ -72,5 +72,5 @@ This is a complete full stack ecommerce application built with Mongoose, Express
 > ![Screenshot (670)](https://github.com/SourabhMalviya9090/Ecommerce-Project-Frontend/assets/142317647/15e49138-9b0e-4849-aa63-5c7351c93d0b)
 
 > Admin Page
-> ![Screenshot (672)](https://github.com/SourabhMalviya9090/Ecommerce-Project-Frontend/assets/142317647/ca4d78f1-be41-4df7-8077-bd556128fa3c)
+> ![Screenshot (671)](https://github.com/SourabhMalviya9090/Ecommerce-Project-Frontend/assets/142317647/455be9e9-e38e-44e8-868b-f2a88e7a0206)
 
