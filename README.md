@@ -46,20 +46,29 @@ This is a complete full stack ecommerce application built with Mongoose, Express
 
 > Mens Page
 > ![Screenshot (662)](https://github.com/SourabhMalviya9090/Ecommerce-Project-Frontend/assets/142317647/e0feba6b-75a1-4cbe-b22e-b81b26518f66).
+
 > Womens Page
 > ![Screenshot (663)](https://github.com/SourabhMalviya9090/Ecommerce-Project-Frontend/assets/142317647/9fa7369e-defe-4258-b5f6-96060eb8f93e)
+
 > Kids Page
 > ![Screenshot (664)](https://github.com/SourabhMalviya9090/Ecommerce-Project-Frontend/assets/142317647/79f3358e-8899-4688-8f41-4f9deaacb934)
+
 > Product Page
 > ![Screenshot (665)](https://github.com/SourabhMalviya9090/Ecommerce-Project-Frontend/assets/142317647/072b2950-4fce-4865-9faa-d9247b15e491)
+
 > Cart Page
 > ![Screenshot (666)](https://github.com/SourabhMalviya9090/Ecommerce-Project-Frontend/assets/142317647/8c92e05c-5c25-4a31-959a-2ad2388138a0)
+
 > Your Orders Page
 > ![Screenshot (667)](https://github.com/SourabhMalviya9090/Ecommerce-Project-Frontend/assets/142317647/d361ef85-7c56-4cf1-8a1a-08d1c5a8e0c3)
 
 > Payment Page
 > ![Screenshot (668)](https://github.com/SourabhMalviya9090/Ecommerce-Project-Frontend/assets/142317647/5be1f60a-1b16-4291-88ac-72528d9f72ff)
 
+> Login Page
+> ![Screenshot (669)](https://github.com/SourabhMalviya9090/Ecommerce-Project-Frontend/assets/142317647/f1318be1-57b9-4cf2-9988-40aeaa5c9f32)
 
+> Signup Page
+> ![Screenshot (670)](https://github.com/SourabhMalviya9090/Ecommerce-Project-Frontend/assets/142317647/15e49138-9b0e-4849-aa63-5c7351c93d0b)
 
 
