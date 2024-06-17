@@ -7,6 +7,7 @@ This is a complete full stack ecommerce application built with Mongoose, Express
 > * Any logged in user can proceed to checkout and can pay via card, for this stripe payment gateway is integrated.
 > * After paying for the product user can download an Invoice for the product.
 > * User will also receive a confirmation email after the successful payment.
+> * The Application is completely responsive, it is flexible with mobile phones, tablets, ipad, laptop. desktop screens.
 
 ## Admin Portal Features
 > * Admin can login and can see all the products currently serving on the website.
@@ -37,3 +38,9 @@ This is a complete full stack ecommerce application built with Mongoose, Express
 ## Link to Backend and Admin portal Repositories
 > [Backend Repo](https://github.com/SourabhMalviya9090/Ecommerce-Project-Backend).
 > [Admin Portal Repo](https://github.com/SourabhMalviya9090/Ecommerce-Project-AdminPortal).
+
+
+## Screenshots of the Application pages and features.
+> Home Page
+> ![Screenshot (661)](https://github.com/SourabhMalviya9090/Ecommerce-Project-Frontend/assets/142317647/4a39730e-9e25-4ac6-859f-bed169180a2e)
+
