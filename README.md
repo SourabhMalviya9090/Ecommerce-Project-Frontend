@@ -8,6 +8,12 @@ This is a complete full stack ecommerce application built with Mongoose, Express
 > * After paying for the product user can download an Invoice for the product.
 > * User will also receive a confirmation email after the successful payment.
 
+## Admin Portal Features
+> * Admin can login and can see all the products currently serving on the website.
+> * Admin can add more products which will directly update on the website.
+> * Admin can remove any product from the database and the changes will reflect on the website.
+
+
 ## Technologies used
 > * HTML5 - markup language for creating web pages and web applications.
 > * CSS3 - used for describing the presentation of a document written in a markup language.
@@ -26,8 +32,8 @@ This is a complete full stack ecommerce application built with Mongoose, Express
 > * EmailJs - EmailJS helps to send emails using client-side technologies only.
 
 ## Link to the website
-[ShopperEcommerce](https://ecommerce-project-frontend-ecru.vercel.app/).
+> [ShopperEcommerce](https://ecommerce-project-frontend-ecru.vercel.app/).
 
-## Link to Backend And Admin portal Repositories
-[Backend Repo](https://github.com/SourabhMalviya9090/Ecommerce-Project-Backend).
-[Admin Portal Repo](https://github.com/SourabhMalviya9090/Ecommerce-Project-AdminPortal).
+## Link to Backend and Admin portal Repositories
+> [Backend Repo](https://github.com/SourabhMalviya9090/Ecommerce-Project-Backend).
+> [Admin Portal Repo](https://github.com/SourabhMalviya9090/Ecommerce-Project-AdminPortal).
