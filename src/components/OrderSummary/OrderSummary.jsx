@@ -27,7 +27,7 @@ const OrderSummary = () => {
   // Function for fetching the user from backend/database 
   const getUser = async () => {
     let userInfo;
-    await fetch("http://localhost:4000/getuser", {
+    await fetch("https://ecommerce-project-backend-109a.onrender.com/getuser", {
       method: 'POST',
       headers: {
         Accept: "application/json",

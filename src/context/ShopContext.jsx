@@ -25,7 +25,7 @@ export const ShopContextProvider = (props) => {
     // Function for retriveing the user cart after user logs in 
     const retrieveCart = async () => {
         if (localStorage.getItem("auth-token") !== "") {
-            await fetch("http://localhost:4000/getusercart", {
+            await fetch("https://ecommerce-project-backend-109a.onrender.com/getusercart", {
                 method: 'POST',
                 headers: {
                     Accept: "application/json",
@@ -47,7 +47,7 @@ export const ShopContextProvider = (props) => {
         const newCart = { ...cartItems, [itemId]: cartItems[itemId] + 1 };
         setCart(newCart);
         if (localStorage.getItem('auth-token') !== "") {
-            await fetch("http://localhost:4000/addtocart", {
+            await fetch("https://ecommerce-project-backend-109a.onrender.com/addtocart", {
                 method: 'POST',
                 headers: {
                     Accept: 'application/json',
@@ -67,7 +67,7 @@ export const ShopContextProvider = (props) => {
         const newCart2 = { ...cartItems, [itemId]: cartItems[itemId] - 1 };
         setCart(newCart2);
         if (localStorage.getItem("auth-token") != "") {
-            await fetch("http://localhost:4000/removefromcart", {
+            await fetch("https://ecommerce-project-backend-109a.onrender.com/removefromcart", {
                 method: 'POST',
                 headers: {
                     Accept: "application/json",

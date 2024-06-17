@@ -29,7 +29,7 @@ import { Link } from "react-router-dom";
 
   // Login function which will authenticate user from database using JWT token
   const loginFunc = async () => {
-    await fetch("http://localhost:4000/login", {
+    await fetch("https://ecommerce-project-backend-109a.onrender.com/login", {
       method: 'POST',
       headers: {
         Accept: "application/json",
@@ -49,7 +49,7 @@ import { Link } from "react-router-dom";
 
   // Signup function
   const signupFunc = async () => {
-    await fetch("http://localhost:4000/signup", {
+    await fetch("https://ecommerce-project-backend-109a.onrender.com/signup", {
       method: 'POST',
       headers: {
         Accept: 'application/json',
