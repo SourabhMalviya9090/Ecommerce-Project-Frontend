@@ -11,8 +11,8 @@ This is a complete full stack ecommerce application built with Mongoose, Express
 
 ## Admin Portal Features
 > * Admin can login and can see all the products currently serving on the website.
-> * Admin can add more products which will directly update on the website.
-> * Admin can remove any product from the database and the changes will reflect on the website.
+> * Admin can add more products on the database.
+> * Admin can remove any product from the database.
 
 
 ## Technologies used
